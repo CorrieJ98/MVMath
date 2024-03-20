@@ -1,3 +1,13 @@
+/*
+
+There is very little inside this .sln which will be of use to the end user. I simply
+used this as an environment to troubleshoot my own skill-issues and work a problem.
+With that said, however, I do hope that by providing this, it is able to help someone
+out of a similar situation, and push forward some more cool projects.
+
+
+
+*/
 #pragma once
 #include <algorithm>
 
