@@ -1,12 +1,15 @@
 /*
+Corrie Johnstone - Matrix and Vector Math Library v0.1.0
 
-There is very little inside this .sln which will be of use to the end user. I simply
-used this as an environment to troubleshoot my own skill-issues and work a problem.
-With that said, however, I do hope that by providing this, it is able to help someone
-out of a similar situation, and push forward some more cool projects.
+This is built as an improvement upon OneLoneCoder's Command Line Game Engine matrix and vector math
+libary and is by no means optimal, polished, or user friendly. This was built for my own enjoyment
+and is being used solely as a means to learn game engine architecture.
 
+Unless you are a brave soul, beware! I have made several awful mistakes, poor design choices and 
+have planned exactly none of what you see before you. It is a shambles. Should my family see 
+the mess I have made of OOP I would be disgraced.
 
-
+With that said, I am proud of it. Enjoy!
 */
 #pragma once
 #include <algorithm>
